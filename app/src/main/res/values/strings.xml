@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- Pract1 - Portada -->
+    <string name="school_title">TECNOLOGICO DE ESTUDIOS SUPERIORES DEL ORIENTE DEL ESTADO DE MEXICO</string>
+    <string name="subject_title">Topicos selectivos de dispositivos moviles hibridos</string>
+    <string name="student_name">Alumno:\nJuan Pablo Lorenzo Ortiz Garcia</string>
+    <string name="professor_name">Profesor:\nVictor Hugo De La O Martinez</string>
+    <string name="group_label">Grupo: 7S5</string>
+    <string name="img_desc">Imagen institucional o portada</string>
+
+    <!-- Pract2 - Espera -->
+    <string name="wait_message">Espere 5 segundos para cambio de pantalla</string>
+
+    <!-- Menu Opciones -->
+    <string name="menu_opciones_title">MENU DE OPCIONES</string>
+    <string name="hint_nombre">Ingresa tu nombre</string>
+    <string name="btn_enviar">Enviar</string>
+
+    <!-- Envio Datos -->
+    <string name="ingreso_datos_title">INGRESO DE DATOS</string>
+    <string name="hint_ingrese_nombre">Ingresa aqui tu nombre</string>
+    <string name="hint_ingrese_edad">Ingresa aqui tu edad</string>
+
+    <!-- Envio Parametros -->
+    <string name="envio_param_title">Envio de parametros entre actividades</string>
+    <string name="hint_ingrese_su_nombre">ingrese su nombre</string>
+    <string name="btn_enviar_datos">Enviar Datos</string>
+
+    <!-- Recep Info -->
+    <string name="recep_info_title">Recepcion de Informacion</string>
+    <string name="info_proporcionada">La información proporcionada es:</string>
+
+    <!-- Pract5 - Parcelable -->
+    <string name="pract5_title">Uso de elementos parceleables</string>
+    <string name="hint_ingresa_correo">Ingresa tu correo</string>
+    <string name="btn_enviar_datos_cap">Enviar datos</string>
+
+    <!-- Recep Datos -->
+    <string name="recep_datos_title">Recepcion de Datos</string>
+    <string name="datos_recibidos">Datos recibidos:</string>
+
+    <!-- Tarea 1 -->
+    <string name="envio_datos_title">ENVIO DE DATOS</string>
+    <string name="btn_enviar_datos_caps">ENVIAR DATOS</string>
+</resources>
